@@ -1,12 +1,16 @@
 Personal nvim configuration
 
 Keybinds:
-Neotree = <C-n>
+- `<leader>` = `space`
 
-Formatting = <leader>gf
-Find files = <C-p>
-Live grep = <leader>fg
+- Neotree = `<C-n>`
 
-Hover = K
-Definition = gd
-Code action = <leader>ca
+---
+- Formatting = `<leader>gf`
+- Find files = `<C-p>`
+- Live grep = `<leader>fg`
+
+---
+- Hover = `K`
+- Definition = `gd`
+- Code action = `<leader>ca`
